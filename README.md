@@ -27,5 +27,5 @@
 ## Minhas redes / My networks
                                                                                                                           
 <div style="display: inline-block">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/rubens-mreis-neto/" />
+  <a href="https://www.linkedin.com/in/rubens-mreis-neto/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
