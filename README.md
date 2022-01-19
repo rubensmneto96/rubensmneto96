@@ -4,7 +4,7 @@
 
 - 🔭 Atualmente, estou trabalhando em projetos e estudando. / Currently working on projects and studying.
 - 🌱 Estou estudando C#, Java, JavaScript e Ethical Hacking. / I'm studying C#, Java, JavaScript and Ethical Hacking.
-- 📫 Contato: rubensmneto96@gmail.com | +55 (11) 9 2014-4067  / How to reach me: rubensmneto96@gmail.com | +55 (11) 9 2014-4067
+- 📫 Contato: rubensmn96@gmail.com | +55 (11) 9 2014-4067  / How to reach me: rubensmn96@gmail.com | +55 (11) 9 2014-4067
 
 
 <div>
