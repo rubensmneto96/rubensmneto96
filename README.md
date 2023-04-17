@@ -1,4 +1,4 @@
-## Olá. Meu nome é Rubens Mreis Neto. Sou ex-militar da Marinha do Brasil e atualmente estudante, desenvolvedor Web e analista de Segurança da Informação.
+## Olá. Meu nome é Rubens Mreis Neto. Atualmente sou estudante, desenvolvedor Web e analista de Segurança da Informação.
 
 
 
