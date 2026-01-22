@@ -3,7 +3,7 @@
 
 
 - 🔭 Atualmente, estou trabalhando em projetos e estudando. / Currently working on projects and studying.
-- 🌱 Estou estudando Java, Spring Boot e Ethical Hacking. / I'm studying Java, Spring Boot and Ethical Hacking.
+- 🌱 Estou estudando Rust e Ethical Hacking. / I'm studying Rust and Ethical Hacking.
 - 📫 Contato: rubensmn96@gmail.com |  / How to reach me: rubensmn96@gmail.com
 
 
@@ -19,5 +19,5 @@
   <img align="center" width="80" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"" />
   <img align="center" width="80" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" width="80" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"" />
-  <img align="center" width="80" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"" />
+  <img align="center" width="80" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
 </div>
