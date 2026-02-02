@@ -9,7 +9,7 @@
 
 <div>
   <a href="https://github.com/rubensmneto96">
-  <img height="250em" width="280em" src="https://github-readme-stats-wheat-theta-20.vercel.app/api?username=rubensmneto96&theme=dark&show_icons=true" />
+  <img height="280em" width="400em" src="https://github-readme-stats-wheat-theta-20.vercel.app/api?username=rubensmneto96&theme=dark&show_icons=true" />
   <img height="280em" src="https://github-readme-stats-wheat-theta-20.vercel.app/api/top-langs/?username=rubensmneto96&theme=dark&exclude_repo=github-readme-stats,rubensmneto96.github.io"/>
 </div>
   
