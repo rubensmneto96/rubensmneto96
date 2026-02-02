@@ -9,8 +9,8 @@
 
 <div>
   <a href="https://github.com/rubensmneto96">
-  <img height="250em" src="https://github-readme-stats-rubens-projects-41c3d189.vercel.app/api?username=rubensmneto96&show_icons=true&theme=dark"/>
-  <img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubensmneto96&exclude_repo=github-readme-stats,rubensmneto96.github.io"/>
+  <img height="250em" src="https://github-readme-stats-wheat-theta-20.vercel.app/api?username=rubensmneto96" />
+  <img height="280em" src="https://github-readme-stats-wheat-theta-20.vercel.app/api/top-langs/?username=rubensmneto96&exclude_repo=github-readme-stats,rubensmneto96.github.io"/>
 </div>
   
 ## Meus conhecimentos / My knowledge
