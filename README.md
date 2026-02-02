@@ -8,7 +8,6 @@
 
 
 <div style="display: block">
-  <a href="https://github.com/rubensmneto96">
   <img height="200em" src="https://github-readme-stats-wheat-theta-20.vercel.app/api?username=rubensmneto96&theme=dark&show_icons=true" />
   <img height="200em" src="https://github-readme-stats-wheat-theta-20.vercel.app/api/top-langs/?username=rubensmneto96&theme=dark&exclude_repo=github-readme-stats,rubensmneto96.github.io"/>
 </div>
