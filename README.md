@@ -1,4 +1,4 @@
-## Olá. Meu nome é Rubens Mreis Neto. Sou operador de Segurança Pública, desenvolvedor Web, analista de sistemas e de Segurança da Informação. / Hello. My name is Rubens Mreis Neto. I'm a Law Enforcement Officer, Web developer, system and Security Information analyst.
+## Olá. Meu nome é Rubens Mreis Neto. Sou operador de Segurança Pública, Analista Desenvolvedor de Sistemas e Analista de Segurança da Informação. / Hello. My name is Rubens Mreis Neto. I'm a Law Enforcement Officer, Systems Analyst Developer and Security Information Analyst.
 
 
 
