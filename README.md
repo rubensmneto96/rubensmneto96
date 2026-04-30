@@ -15,7 +15,7 @@
 ## Meus conhecimentos / My knowledge
   
 <div style="display: block">
-  <div style="margin: auto">
+  <div style="margin: auto; justify-content: space-between;">
     <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
