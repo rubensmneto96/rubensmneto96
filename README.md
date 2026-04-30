@@ -14,9 +14,9 @@
   
 ## Meus conhecimentos / My knowledge
   
-<div>
-  <img align="center" width="80" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display: inline-block"/>
+<div style="display: inline">
+  <img align="center" width="80" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" width="80" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" width="80" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"" />
+  <img align="center" width="80" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" width="80" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
 </div>
